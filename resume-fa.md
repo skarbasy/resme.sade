@@ -7,7 +7,7 @@ body{
 
 ### اطلاعات شخصی
 
-### [برای دیدن فایل پی دی اف رزومه کلیک کنید ](https://github.com/skarbasy/skarbasy.github.io/edit/main/skarbasy.pdf)
+### [برای دیدن فایل پی دی اف رزومه کلیک کنید ](https://github.com/skarbasy/resume.sade/edit/main/skarbasy.pdf)
 
 ---
 + نام : سمیه
