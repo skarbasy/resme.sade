@@ -23,7 +23,7 @@
 + programming
 + data base
 + software
-+ ### [click  here for skarbasy.png  in github](https://github.com/skarbasy/skarbasy.github.io/edit/main/karbasy.png)
++ ### [click  here for skarbasy.png  in github](https://github.com/skarbasy/resume.sade/edit/main/karbasy.png)
 
 ### Education
 
